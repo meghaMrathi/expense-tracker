@@ -1,0 +1,10 @@
+Date,Category,Amount
+2025-06-28,travel,450.0
+2025-06-21,travel,300.0
+2025-06-23,food,90.0
+2025-06-24,travel,250.0
+2025-06-25,"python -u ""c:\Users\rathi\OneDrive\Desktop\Expensetracking\tracker.py""",500.0
+2025-06-26,rent,3400.0
+2025-06-27,travel,202.0
+2025-06-28,entertainment,500.0
+"python -u ""c:\Users\rathi\OneDrive\Desktop\Expensetracking\summary.py""",Food,500.0
